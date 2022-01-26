@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.io.IOException;
 /**
  * Elijah Helmandollar
- * Lab #3
  * Description: Repeatedly extracts data from an entered URL, and then locates the sub-URLs within that data and
  *              extracts more data/sub-URLs.
  */

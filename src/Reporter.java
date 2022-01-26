@@ -4,7 +4,6 @@ import java.io.IOException;
 import java.io.BufferedWriter;
 /**
  * Elijah Helmandollar
- * Lab #3
  * Description: Formulates a report of the top 50 most used words based upon the extracted and filtered data.
  */
 public class Reporter {

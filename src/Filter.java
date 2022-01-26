@@ -3,7 +3,6 @@ import org.jsoup.nodes.Document;
 import org.jsoup.safety.Whitelist;
 /**
  * Elijah Helmandollar
- * Lab #3
  * Description: Filters and extracts only the relevant textual data from the contents of the web page. Also contains
  *              a method for URL validation.
  */

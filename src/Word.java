@@ -1,6 +1,5 @@
 /**
  * Elijah Helmandollar
- * Lab #3
  * Description: A simple class that allows us to save each instance of a word to an
  *              array list of un-duplicated words.
  */

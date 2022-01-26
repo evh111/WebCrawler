@@ -4,7 +4,6 @@ import java.util.TimerTask;
 import java.util.InputMismatchException;
 /**
  * Elijah Helmandollar
- * Lab #3
  * Description: Accepts the URL and runtime from the user to then begin the process of "crawling" the web.
  */
 public class Interface {
