@@ -35,7 +35,7 @@ public class Reporter {
 
         try {
 
-            // Targets a generic project directory TODO: Test in NetBeans
+            // Targets a generic project directory.
             BufferedWriter writer = new BufferedWriter(new FileWriter("output.txt"));
 
             int limit = 0;
